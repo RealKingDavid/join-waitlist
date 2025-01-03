@@ -59,28 +59,28 @@ We believe talent is universal, but opportunity isn't - yet. Our mission is to e
 ## Get Involved 🤝
 
 ### For Mentees
-- [Join Waitlist](link-to-waitlist)
-- [Follow us on LinkedIn](link-to-linkedin)
-- [Visit our Website](link-to-website)
+```
+┌────────────────────────────────────┐
+│                                    │
+│  Enter your email to join waitlist │
+│                                    │
+└────────────────────────────────────┘
+[        Join Waitlist        ]
+```
 
 ### For Mentors
-- [Apply to be a Mentor](link-to-mentor-application)
-- [Share Your Expertise](link-to-mentor-info)
-- [Connect with Us](link-to-contact)
-
-## Contact Us 📧
-
-- Email: [contact@yourgdd.com](mailto:contact@yourgdd.com)
-- LinkedIn: [GDD Platform](link-to-linkedin)
-- Website: [www.yourgdd.com](link-to-website)
+```
+┌────────────────────────────────────┐
+│                                    │
+│  Enter your email to register      │
+│                                    │
+└────────────────────────────────────┘
+[      Register Interest      ]
+```
 
 ## Support Our Mission 💪
 
-Help us reach more young African women by:
-- Sharing our platform with potential mentors
-- Following and sharing our social media content
-- Contributing to our resource library
-- Sponsoring mentee access
+Help us reach more young African women by sharing our platform with potential mentors.
 
 ---
 
