@@ -1,59 +1,88 @@
-<header>
+# Your Genius Deserves Direction (GDD) 🌟
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+> Empowering African Women Through Global Mentorship
 
-# GitHub Pages
+## About Us 🌍
+We're transforming the landscape of mentorship by connecting ambitious young African women with accomplished global leaders. Through our digital platform, we're breaking down geographical and financial barriers to create unprecedented access to world-class guidance.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## Our Impact 💫
 
-</header>
+- **10,000+** Global Mentors
+- **50,000+** Lives Transformed
+- **100%** Free Access
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
+## Why GDD? 🚀
 
-## Step 2: Configure your site
+Our platform offers a unique combination of features designed to maximize the mentorship experience:
 
-_You turned on GitHub Pages! :tada:_
+### For Mentees
+- **Expert Guidance:** Direct connection with accomplished leaders in academics, business, healthcare, and finance
+- **Live Sessions:** Interactive learning opportunities with global mentors
+- **Free Resources:** Access to tailored materials and guidance
+- **Community:** A supportive network of peers pursuing similar dreams
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+### For Mentors
+- **Global Impact:** Shape the future of African leadership from anywhere in the world
+- **Flexible Commitment:** Mentor on your own schedule through our digital platform
+- **Meaningful Connections:** Build relationships with ambitious young women
+- **Professional Growth:** Join a network of accomplished global leaders
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+## How It Works 💡
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+### For Mentees
+1. Join our waitlist
+2. Complete your profile
+3. Get matched with mentors
+4. Access live sessions and resources
+5. Connect with your global community
 
-### :keyboard: Activity: Configure your site
+### For Mentors
+1. Complete your mentor profile
+2. Set your availability
+3. Connect with mentees
+4. Share your knowledge
+5. Transform lives
 
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+## Features ✨
 
-<footer>
+- **Digital-First Platform:** Access mentorship from anywhere
+- **Live Sessions:** Interactive group learning opportunities
+- **1:1 Connections:** Personalized mentorship experiences
+- **Resource Library:** Curated materials for growth
+- **Community Forums:** Peer support and networking
+- **Flexible Scheduling:** Convenient timing for all time zones
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+## Our Mission 🎯
+
+We believe talent is universal, but opportunity isn't - yet. Our mission is to ensure every African girl has access to the guidance she needs to reach her full potential. Through our platform, we're creating a future where location and finances never limit one's access to world-class mentorship.
+
+## Get Involved 🤝
+
+### For Mentees
+- [Join Waitlist](link-to-waitlist)
+- [Follow us on LinkedIn](link-to-linkedin)
+- [Visit our Website](link-to-website)
+
+### For Mentors
+- [Apply to be a Mentor](link-to-mentor-application)
+- [Share Your Expertise](link-to-mentor-info)
+- [Connect with Us](link-to-contact)
+
+## Contact Us 📧
+
+- Email: [contact@yourgdd.com](mailto:contact@yourgdd.com)
+- LinkedIn: [GDD Platform](link-to-linkedin)
+- Website: [www.yourgdd.com](link-to-website)
+
+## Support Our Mission 💪
+
+Help us reach more young African women by:
+- Sharing our platform with potential mentors
+- Following and sharing our social media content
+- Contributing to our resource library
+- Sponsoring mentee access
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+*"Your genius deserves direction" - Your GDD*
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
